@@ -1,1 +1,1 @@
-# NLP관룐코드 Colab과 연동하기
+# NLP관련코드 Colab과 연동하기
